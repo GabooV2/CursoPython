@@ -1,1 +1,1 @@
-# CursoPython
+# Para tener la informacion que necesitamos para subir el proyecto a un repositorio a la nube.
