@@ -1,0 +1,8 @@
+[
+  "tests/test_database.py::TestDatabase::testBuscarCliente",
+  "tests/test_database.py::TestDatabase::testCrearCliente",
+  "tests/test_database.py::TestDatabase::testEliminarCliente",
+  "tests/test_database.py::TestDatabase::testEscrituraCsv",
+  "tests/test_database.py::TestDatabase::testModificarCliente",
+  "tests/test_database.py::TestDatabase::testValidarDNI"
+]
